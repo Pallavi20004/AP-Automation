@@ -1,7 +1,7 @@
 # Accounts Payable Automation System
 
 ## Overview
-A simple Accounts Payable (AP) Automation application developed using React.js, Django REST Framework, and MySQL/SQLite.
+A simple Accounts Payable (AP) Automation application developed using React.js, Django REST Framework.
 
 ## Features
 - Dashboard
